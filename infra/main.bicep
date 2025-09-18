@@ -320,7 +320,7 @@ param openAiInstances object = {
   }
   openAi3: {
     name: 'openai3'
-    location: 'canadaeast'
+    location: 'eastus2'
     deployments: [
       {
         name: 'chat'
